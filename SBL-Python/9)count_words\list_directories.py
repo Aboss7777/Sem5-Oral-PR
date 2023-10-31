@@ -14,6 +14,7 @@ print(f"Number of lines: {lines}")
 print(f"Number of words: {words}")
 print(f"Number of characters: {chars}")
 
+#Program to list files in directory
 import os
 
 files_list=os.listdir('.')
