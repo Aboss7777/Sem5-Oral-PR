@@ -1,5 +1,6 @@
-import tkinter as tk
 """Code to create a start button"""
+import tkinter as tk
+
 # Function to start an action
 def start_action():
     label.config(text="Action started!")
